@@ -1,7 +1,0 @@
-This application should run and fulfill all the requirements. However, the psycopg2 module won't run on my computer with the error message
-"Traceback (most recent call last):
-  File "C:\Users\camar\Desktop\CS425\App.py", line 6, in <module>
-    import psycopg2
-ModuleNotFoundError: No module named 'psycopg2'"
-
-psycopg2 is the connector that allows PostgreSQL and Python to connect.
